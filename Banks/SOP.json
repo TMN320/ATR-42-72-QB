@@ -1,0 +1,8 @@
+[
+  {
+    "question": "Where is the fire extinguisher located?",
+    "options": ["Galley","Cockpit","Cargo","Lavatory"],
+    "correct_letter": "A",
+    "correct_text": "Galley"
+  }
+]
