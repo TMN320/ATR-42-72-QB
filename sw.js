@@ -1,4 +1,4 @@
-const CACHE = "atr-quiz-v6"; // <-- IMPORTANT: change this every time you want to force-update
+const CACHE = "atr-quiz-v7"; // <-- IMPORTANT: change this every time you want to force-update
 
 const ASSETS = [
   "./",
