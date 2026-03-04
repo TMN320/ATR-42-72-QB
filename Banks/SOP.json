@@ -1,0 +1,2330 @@
+[
+  {
+    "question": "What is the purpose of the pre-flight briefing?",
+    "options": [
+      "To check meal availability",
+      "To encourage communication, build rapport, and promote team performance",
+      "To discuss passenger complaints from previous flights",
+      "To finalize ticketing and boarding information"
+    ],
+    "correct_letter": "B",
+    "correct_text": "To encourage communication, build rapport, and promote team performance"
+  },
+  {
+    "question": "When must the entire crew meet for the pre-flight briefing?",
+    "options": [
+      "At any time during boarding",
+      "Only after passengers are seated",
+      "On time, prior to the first flight of the day, in the location planned by the Commander",
+      "On time, prior to the first flight of the day, in the location written on CIF"
+    ],
+    "correct_letter": "C",
+    "correct_text": "On time, prior to the first flight of the day, in the location planned by the Commander"
+  },
+  {
+    "question": "In which locations may the pre-flight briefing be conducted?",
+    "options": [
+      "Only in the aircraft cockpit",
+      "Only at the hotel",
+      "Briefing room, aircraft cabin with no passengers, hotel, or private area such as a screened gate area",
+      "Passenger seating area during boarding"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Briefing room, aircraft cabin with no passengers, hotel, or private area such as a screened gate area"
+  },
+  {
+    "question": "If one or more crew members are not native speakers, the briefing must be conducted in:",
+    "options": [
+      "The Commander’s native language",
+      "The language of the airline’s headquarters",
+      "English",
+      "Any language chosen by the majority of the crew"
+    ],
+    "correct_letter": "C",
+    "correct_text": "English"
+  },
+  {
+    "question": "When flight crew and cabin crew are on different schedules or transit passengers remain on board, the Commander should:",
+    "options": [
+      "Cancel the pre-flight briefing",
+      "Brief all crew separately",
+      "Brief the SCCM/CCM1, who will then brief the cabin crew",
+      "Skip the briefing to save time"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Brief the SCCM/CCM1, who will then brief the cabin crew"
+  },
+  {
+    "question": "The Commander’s briefing should:",
+    "options": [
+      "Be as long as possible, covering every technical detail",
+      "Only discuss meal service and crew breaks",
+      "Be short and cover key operational and safety topics",
+      "Be optional for experienced crews"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Be short and cover key operational and safety topics"
+  },
+  {
+    "question": "Which of the following is NOT typically covered in the Commander’s briefing?",
+    "options": [
+      "Weather conditions and expected turbulence",
+      "Aircraft type and version",
+      "Special passenger categories",
+      "Catering supplier contract details"
+    ],
+    "correct_letter": "D",
+    "correct_text": "Catering supplier contract details"
+  },
+  {
+    "question": "Which of these topics may be dedicated specifically to the SCCM?",
+    "options": [
+      "Weather report",
+      "Flight times",
+      "Verification that all personal documents are valid",
+      "Aircraft type"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Verification that all personal documents are valid"
+  },
+  {
+    "question": "Which combination best describes the minimum required content of the SCCM briefing?",
+    "options": [
+      "Allocation of meal service duties, number of passengers, boarding times",
+      "Aircraft registration, gate number, boarding group assignments",
+      "Crew station allocation & emergency duties, aircraft-specific procedures, equipment, area/type of operation, special passenger categories, and safety knowledge review",
+      "Weather conditions, flight time, altitude"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Crew station allocation & emergency duties, aircraft-specific procedures, equipment, area/type of operation, special passenger categories, and safety knowledge review"
+  },
+  {
+    "question": "During the SCCM briefing, emphasis must be placed on which group of passengers to ensure cabin crew readiness?",
+    "options": [
+      "Unaccompanied minors, premium passengers, and passengers with pets",
+      "VIP passengers, frequent flyers, and tour groups",
+      "Passengers with reduced mobility, disabilities, infants, and stretcher cases",
+      "Passengers seated in overwing exits only"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Passengers with reduced mobility, disabilities, infants, and stretcher cases"
+  },
+  {
+    "question": "Three random Safety & Emergency questions from the CCOM must be discussed to:",
+    "options": [
+      "Verify who has studied the manual recently",
+      "Evaluate crew morale before flight",
+      "Refresh and validate operational knowledge and emergency preparedness",
+      "Record results for performance appraisals"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Refresh and validate operational knowledge and emergency preparedness"
+  },
+  {
+    "question": "If the SCCM becomes incapacitated mid-flight, who should assume their duties according to pre-flight planning?",
+    "options": [
+      "The youngest crew member",
+      "The Commander",
+      "The second most experienced CC identified during briefing",
+      "Any available ground staff member"
+    ],
+    "correct_letter": "C",
+    "correct_text": "The second most experienced CC identified during briefing"
+  },
+  {
+    "question": "Which of the following would be a critical error in SCCM pre-flight briefing?",
+    "options": [
+      "Failing to ask safety & emergency questions",
+      "Not assigning stations before boarding",
+      "Both A and B",
+      "Conducting the briefing in English when everyone is a native speaker"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Both A and B"
+  },
+  {
+    "question": "According to procedures, if a cabin crew member discovers a missing or unserviceable item of emergency equipment, they must:",
+    "options": [
+      "Record it for post-flight reporting",
+      "Replace it themselves if possible",
+      "Report it to the Commander immediately",
+      "Continue operations without reporting to avoid delays"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Report it to the Commander immediately"
+  },
+  {
+    "question": "Under what condition may additional uplift of equipment cause a flight delay?",
+    "options": [
+      "If it is convenient for the ground crew",
+      "If the cabin crew requests it",
+      "It must always cause a delay until completed",
+      "Only if the Commander accepts the delay"
+    ],
+    "correct_letter": "D",
+    "correct_text": "Only if the Commander accepts the delay"
+  },
+  {
+    "question": "When must cabin crew perform the emergency equipment check?",
+    "options": [
+      "Only once per day, regardless of aircraft changes",
+      "Only if the Commander asks for it",
+      "Immediately after boarding, prior to flight, and again after crew changes or returning to an unattended aircraft",
+      "Only before the first flight of the duty period"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Immediately after boarding, prior to flight, and again after crew changes or returning to an unattended aircraft"
+  },
+  {
+    "question": "Which of the following best describes what CCMs must ensure about emergency equipment?",
+    "options": [
+      "It is present and unsealed for immediate use",
+      "It is visible to passengers at all times",
+      "It is stored in the galley compartments only",
+      "It is present, correctly stowed, accessible, serviceable, secured, and sealed if applicable"
+    ],
+    "correct_letter": "D",
+    "correct_text": "It is present, correctly stowed, accessible, serviceable, secured, and sealed if applicable"
+  },
+  {
+    "question": "If the emergency equipment is located in an overhead bin, what is strictly prohibited?",
+    "options": [
+      "Placing company manuals near it",
+      "Storing crew meals above it",
+      "Covering or blocking it with baggage, coats, or other items",
+      "All mentioned"
+    ],
+    "correct_letter": "D",
+    "correct_text": "All mentioned"
+  },
+  {
+    "question": "When must a pre-flight security search be performed?",
+    "options": [
+      "Only when passengers report something suspicious",
+      "Once per aircraft each week",
+      "Before the first flight of the day for the crew or other cases specified in OM-A, when all ground staff have left the aircraft and before passenger embarkation",
+      "Only after catering is loaded"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Before the first flight of the day for the crew or other cases specified in OM-A, when all ground staff have left the aircraft and before passenger embarkation"
+  },
+  {
+    "question": "Which best describes what searchers are looking for during a pre-flight security search?",
+    "options": [
+      "Loose items belonging to crew",
+      "Misplaced catering supplies",
+      "Anything that should not be there, cannot be readily identified, is out of place, or appears concealed",
+      "Signs of missing passenger property"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Anything that should not be there, cannot be readily identified, is out of place, or appears concealed"
+  },
+  {
+    "question": "What areas must be included in a pre-flight security search?",
+    "options": [
+      "Only cabin seats and overhead bins",
+      "Passenger cabin and flight deck",
+      "Passenger cabin only if there are international passengers",
+      "Passenger cabin, lavatories, galleys, and cargo compartments accessible from cabin"
+    ],
+    "correct_letter": "D",
+    "correct_text": "Passenger cabin, lavatories, galleys, and cargo compartments accessible from cabin"
+  },
+  {
+    "question": "If a suspicious object is found and Commander/Co-pilot are not present, what is the correct action?",
+    "options": [
+      "Wait until flight crew returns",
+      "Move the item to the galley and continue search",
+      "Contact Airport Security immediately",
+      "Hide the item until flight crew arrives"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Contact Airport Security immediately"
+  },
+  {
+    "question": "If a passenger leaves the aircraft before departure, what is the recommended action?",
+    "options": [
+      "Ignore it, as bags will be removed automatically",
+      "Only check that passenger’s seat",
+      "Ask nearby passengers to visually confirm their own belongings and remove any unattributed items",
+      "Conduct a full cabin security search again"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Ask nearby passengers to visually confirm their own belongings and remove any unattributed items"
+  },
+  {
+    "question": "Which of the following must be checked during lavatory inspection before departure?",
+    "options": [
+      "Only toilet paper and soap",
+      "Only lights and flush system",
+      "Waste bin flap, flush function, water availability, lights, call button function, smoke detector, cleanliness, and supplies",
+      "Only that the lavatory door locks"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Waste bin flap, flush function, water availability, lights, call button function, smoke detector, cleanliness, and supplies"
+  },
+  {
+    "question": "What does the cabin crew need to confirm about the lavatory call button?",
+    "options": [
+      "It is easy to reach for children",
+      "Amber light illuminates on lav wall and is displayed on AIP, AAP, and ACP",
+      "It is switched off during taxi",
+      "It is functioning only for use by crew"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Amber light illuminates on lav wall and is displayed on AIP, AAP, and ACP"
+  },
+  {
+    "question": "If foreign objects are found inserted into or blocking a smoke detector, cabin crew must:",
+    "options": [
+      "Remove them quietly and continue",
+      "Ask passengers nearby if they know who did it",
+      "Inform the Commander immediately",
+      "Log it after flight completion"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Inform the Commander immediately"
+  },
+  {
+    "question": "Which of the following is NOT a part of the lavatory pre-flight check?",
+    "options": [
+      "Toilet paper supply",
+      "Liquid soap",
+      "Checking galley waste disposal",
+      "Smoke detector functionality"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Checking galley waste disposal"
+  },
+  {
+    "question": "Cabin crew stations vary according to:",
+    "options": [
+      "Time of day",
+      "Passenger load",
+      "Aircraft type",
+      "Cabin service schedule"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Aircraft type"
+  },
+  {
+    "question": "Each CCM seat is fitted with:",
+    "options": [
+      "Lap belt only",
+      "Shoulder harness only",
+      "Combination seat belt/shoulder harness",
+      "Standard passenger seatbelt"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Combination seat belt/shoulder harness"
+  },
+  {
+    "question": "During taxi, the Commander instructs all CCMs to strap in. Which of the following is the MOST correct action?",
+    "options": [
+      "Sit in the nearest passenger seat and fasten the seatbelt only",
+      "Return to assigned station and fasten lap strap loosely",
+      "Occupy assigned jump seat, fasten lap strap and harness securely, and remain seated",
+      "Stay standing near the galley to monitor passengers"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Occupy assigned jump seat, fasten lap strap and harness securely, and remain seated"
+  },
+  {
+    "question": "While performing pre-flight checks, you find the interphone at your station is not audible when tested. What is the correct action?",
+    "options": [
+      "Make a note and report it after landing",
+      "Continue the flight since PA system is working",
+      "Report the fault immediately to the SCCM/Commander so it can be rectified before departure",
+      "Use another station’s interphone during emergencies"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Report the fault immediately to the SCCM/Commander so it can be rectified before departure"
+  },
+  {
+    "question": "Why must harnesses be left open when not in use during flight?",
+    "options": [
+      "To reduce wear on the belts",
+      "To allow quick evacuation if needed",
+      "To enable rapid donning in case of turbulence or sudden need to strap in",
+      "To make the cabin look tidy for passengers"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To enable rapid donning in case of turbulence or sudden need to strap in"
+  },
+  {
+    "question": "During your pre-flight check, you find several seat belts hanging into the aisle. What is the most appropriate action?",
+    "options": [
+      "Leave them as they are since passengers will fasten them",
+      "Report to the SCCM and continue checks",
+      "Place them on the seat, ensuring they are ready for use and not obstructing the aisle",
+      "Wait until boarding starts and ask passengers to fix them"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Place them on the seat, ensuring they are ready for use and not obstructing the aisle"
+  },
+  {
+    "question": "Why must window blinds be open and curtains secured prior to takeoff?",
+    "options": [
+      "To allow natural light in for passenger comfort",
+      "To make the cabin look brighter and welcoming",
+      "To allow crew and passengers to observe outside conditions during critical phases",
+      "To save time for cleaning crew"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To allow crew and passengers to observe outside conditions during critical phases"
+  },
+  {
+    "question": "Which of the following findings would require you to report an issue rather than just correcting it yourself?",
+    "options": [
+      "A seat belt lying across the seat",
+      "A carpet section that is loose and poses a tripping hazard",
+      "A tray table left open",
+      "A window blind closed"
+    ],
+    "correct_letter": "B",
+    "correct_text": "A carpet section that is loose and poses a tripping hazard"
+  },
+  {
+    "question": "If a seat pocket is missing its safety card during the pre-flight check, what is the correct procedure?",
+    "options": [
+      "Replace it after boarding is complete",
+      "Ask a passenger to share one from another row",
+      "Notify SCCM/Commander so a replacement card can be placed before passengers board",
+      "Leave it empty since safety demonstration will cover procedures"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Notify SCCM/Commander so a replacement card can be placed before passengers board"
+  },
+  {
+    "question": "During a pre-flight galley check, you notice a waste bin flap that does not close completely. What is the correct action?",
+    "options": [
+      "Ignore it since bin can still be used",
+      "Tape it shut temporarily",
+      "Report it so it can be repaired or replaced before departure",
+      "Leave a note for next crew"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Report it so it can be repaired or replaced before departure"
+  },
+  {
+    "question": "If a galley trolley’s braking device is inoperative, what must you do?",
+    "options": [
+      "Use the trolley carefully and monitor during flight",
+      "Replace the trolley and label it “INOPERATIVE”",
+      "Secure it with a seatbelt in the galley",
+      "Leave it for maintenance after the flight"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Replace the trolley and label it “INOPERATIVE”"
+  },
+  {
+    "question": "Why must all stowages be checked to be lockable and securable?",
+    "options": [
+      "To prevent catering crew from accessing them",
+      "To prevent items from falling out during turbulence or emergency",
+      "To ensure quick loading of catering boxes"
+    ],
+    "correct_letter": "B",
+    "correct_text": "To prevent items from falling out during turbulence or emergency"
+  },
+  {
+    "question": "During your check, you find an oven with heavy oil residue and burnt food parts. What is the best action?",
+    "options": [
+      "Clean it after takeoff",
+      "Ignore it since ovens are rarely inspected",
+      "Report it to SCCM for entry in the Cabin Log Report for cleaning",
+      "Mark it with a sticker but continue using it"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Report it to SCCM for entry in the Cabin Log Report for cleaning"
+  },
+  {
+    "question": "When testing a trolley’s braking system on board, what is the correct procedure?",
+    "options": [
+      "Check brakes only after boarding",
+      "Apply brakes, load trolley fully, and push with maximum force",
+      "Press the red brake pedal, push and pull the trolley with normal operational force, and verify wheels stop",
+      "D) Roll the trolley down the aisle to see if it moves"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Press the red brake pedal, push and pull the trolley with normal operational force, and verify wheels stop"
+  },
+  {
+    "question": "If a trolley is fully loaded but moves freely when brake pedal is pressed and normal operational force is applied, what does this indicate?",
+    "options": [
+      "The trolley is ready for service",
+      "The trolley should be used with caution",
+      "The braking system needs to be adjusted",
+      "The trolley is too light"
+    ],
+    "correct_letter": "C",
+    "correct_text": "The braking system needs to be adjusted"
+  },
+  {
+    "question": "What must cabin crew do if a defective braking system is discovered before or during flight?",
+    "options": [
+      "Use the trolley for light service only",
+      "Stow and secure the trolley, label it “INOPERATIVE,” report to SCCM/Commander, and record in Cabin Log",
+      "Leave it in the galley for maintenance after landing"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Stow and secure the trolley, label it “INOPERATIVE,” report to SCCM/Commander, and record in Cabin Log"
+  },
+  {
+    "question": "Why must carts and trolleys always be secured during taxi, take-off, and landing?",
+    "options": [
+      "To prevent them from rolling and injuring passengers or crew",
+      "To reduce noise during take-off",
+      "To save space in the galley",
+      "To comply with catering company policies"
+    ],
+    "correct_letter": "A",
+    "correct_text": "To prevent them from rolling and injuring passengers or crew"
+  },
+  {
+    "question": "When a trolley is taken out of its stowage for service, which of the following is mandatory?",
+    "options": [
+      "It must be placed sideways to block the aisle",
+      "It must be secured with passenger seatbelts",
+      "It must always be locked and attended unless brakes are engaged"
+    ],
+    "correct_letter": "C",
+    "correct_text": "It must always be locked and attended unless brakes are engaged"
+  },
+  {
+    "question": "When must the interphone system check be performed?",
+    "options": [
+      "Only after boarding is complete",
+      "During the emergency equipment check prior to flight",
+      "Only if a defect is suspected"
+    ],
+    "correct_letter": "B",
+    "correct_text": "During the emergency equipment check prior to flight"
+  },
+  {
+    "question": "What must cabin crew obtain before performing interphone checks between cabin and flight deck?",
+    "options": [
+      "Permission from flight crew",
+      "Permission from SCCM",
+      "No permission needed"
+    ],
+    "correct_letter": "A",
+    "correct_text": "Permission from flight crew"
+  },
+  {
+    "question": "What is the correct call-out for a normal cabin-to-flight deck interphone check?",
+    "options": [
+      "Caller: “Cabin Call” / Receiver: “Cabin Call received”",
+      "Caller: “System Check” / Receiver: “System OK”",
+      "Caller: “Interphone Check” / Receiver: “Interphone checked",
+      "Caller: “Radio Check” / Receiver: “Radio clear”"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Caller: “Interphone Check” / Receiver: “Interphone checked"
+  },
+  {
+    "question": "During an emergency call check cabin-to-cabin, the correct response is:",
+    "options": [
+      "Caller: “Emergency Check” / Receiver: “Check Complete”",
+      "Caller: “Cabin Ready” / Receiver: “Cabin Ready”",
+      "Caller: “Emergency Call Check” / Receiver: “Emergency Call Checked",
+      "Caller: “Alert Call” / Receiver: “Alert Call Received”"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Caller: “Emergency Call Check” / Receiver: “Emergency Call Checked"
+  },
+  {
+    "question": "When performing a PA check, the correct callout is:",
+    "options": [
+      "“PA Test''",
+      "“Cabin Ready”",
+      "“PA Check”",
+      "“Test Complete”"
+    ],
+    "correct_letter": "C",
+    "correct_text": "“PA Check”"
+  },
+  {
+    "question": "The Cabin Log Report (CLR) should be used for:",
+    "options": [
+      "Only MEL items and safety-related defects",
+      "Non-safety-related cabin equipment affecting comfort or convenience",
+      "Safety-related cabin equipment affecting comfort or convenience"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Safety-related cabin equipment affecting comfort or convenience"
+  },
+  {
+    "question": "If a cabin defect might be safety-related but you are unsure, what is the correct procedure?",
+    "options": [
+      "Write it in the CLR anyway",
+      "Wait until the end of the flight to decide",
+      "Consult the Commander for clarification",
+      "Leave it unreported until maintenance finds it"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Consult the Commander for clarification"
+  },
+  {
+    "question": "If a safety-related item must be logged in the CLR, what is required?",
+    "options": [
+      "SCCM writes it without informing anyone",
+      "Technical staff approval first",
+      "Commander’s permission before writing it in"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Commander’s permission before writing it in"
+  },
+  {
+    "question": "When is the Cabin Log Report removed from the aircraft?",
+    "options": [
+      "After every flight",
+      "Whenever there is a major defect",
+      "Only when the last page is completely used, and only by authorized technical personne",
+      "At the request of cabin crew"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Only when the last page is completely used, and only by authorized technical personne"
+  },
+  {
+    "question": "Why are cabin lights dimmed during take-off and landing at night or low light conditions?",
+    "options": [
+      "To save electrical power",
+      "To create a relaxing atmosphere",
+      "To allow passengers’ and crew’s eyesight to adjust to darkness",
+      "To avoid disturbing sleeping passengers"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To allow passengers’ and crew’s eyesight to adjust to darkness"
+  },
+  {
+    "question": "What must be done before dimming cabin lights for take-off or landing?",
+    "options": [
+      "Turn on all lavatory lights",
+      "Close all window blinds",
+      "Make the appropriate passenger announcement",
+      "Turn off reading lights"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Make the appropriate passenger announcement"
+  },
+  {
+    "question": "Which of the following is NOT permitted during normal operations?",
+    "options": [
+      "Dimming cabin lights at night for passenger comfort",
+      "Keeping entrance areas well lit during embarkation",
+      "Keeping the cabin in complete darkness",
+      "Using passenger reading lights during take-off"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Keeping the cabin in complete darkness"
+  },
+  {
+    "question": "Safety and emergency demonstration announcements must always be given:",
+    "options": [
+      "In complete darkness for passenger attention",
+      "After take-off only",
+      "In good lighting so passengers can clearly see procedures",
+      "With reading lights off"
+    ],
+    "correct_letter": "C",
+    "correct_text": "In good lighting so passengers can clearly see procedures"
+  },
+  {
+    "question": "Passenger reading lights can be:",
+    "options": [
+      "Used only during cruise",
+      "Used only in business class",
+      "Switched on for take-off and landing during dark periods",
+      "Disabled during night operations"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Switched on for take-off and landing during dark periods"
+  },
+  {
+    "question": "Who must grant permission before any person other than the operating crew can enter the flight deck?",
+    "options": [
+      "The Dispatcher",
+      "The Commander",
+      "The First Officer",
+      "The SCCM"
+    ],
+    "correct_letter": "B",
+    "correct_text": "The Commander"
+  },
+  {
+    "question": "When should employees or passive crew visit the flight deck whenever possible?",
+    "options": [
+      "During take-off",
+      "During in-flight service",
+      "Before boarding or after disembarkation of passengers",
+      "Only during cruise"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Before boarding or after disembarkation of passengers"
+  },
+  {
+    "question": "If a person needs to visit the flight deck while passengers are on board, cabin crew must:",
+    "options": [
+      "Direct the person to go alone",
+      "Request ground staff approval",
+      "Escort or follow the person to the flight deck",
+      "Wait until the aircraft is airborne"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Escort or follow the person to the flight deck"
+  },
+  {
+    "question": "When must the flight deck door be closed and locked?",
+    "options": [
+      "At pushback only",
+      "Only during taxi and take-off",
+      "From the time all external doors are closed after embarkation until they are opened for disembarkation",
+      "Only when passengers are seated"
+    ],
+    "correct_letter": "C",
+    "correct_text": "From the time all external doors are closed after embarkation until they are opened for disembarkation"
+  },
+  {
+    "question": "What must be done on aircraft with cargo between the flight deck and cabin?",
+    "options": [
+      "Keep the door open for ventilation",
+      "Lock only if turbulence is expected",
+      "Lock the door between FWD cargo and cabin during embarkation and flight",
+      "Secure with a catering trolley"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Lock the door between FWD cargo and cabin during embarkation and flight"
+  },
+  {
+    "question": "Why must the flight deck door remain locked during flight?",
+    "options": [
+      "To avoid distracting passengers",
+      "To ensure flight deck security and prevent unauthorized access",
+      "To reduce noise in the cockpit",
+      "To allow the crew to rest undisturbed"
+    ],
+    "correct_letter": "B",
+    "correct_text": "To ensure flight deck security and prevent unauthorized access"
+  },
+  {
+    "question": "What are the two flight deck access request modes?",
+    "options": [
+      "Normal and alternate",
+      "Scheduled and unscheduled",
+      "Normal flight deck access procedure and emergency flight deck access procedure",
+      "Manual and automatic"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Normal flight deck access procedure and emergency flight deck access procedure"
+  },
+  {
+    "question": "On aircraft without electromagnetic door locking systems:",
+    "options": [
+      "Door access must be left open for safety",
+      "Only ground crew can operate the locks",
+      "Locking may be manual but must still be secured during flight",
+      "The Commander is not responsible for locking"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Locking may be manual but must still be secured during flight"
+  },
+  {
+    "question": "When does the flight deck become sterile?",
+    "options": [
+      "When boarding starts",
+      "After landing",
+      "After “Cabin Clear” is given and until seat belt signs are switched OFF",
+      "Only during cruise"
+    ],
+    "correct_letter": "C",
+    "correct_text": "After “Cabin Clear” is given and until seat belt signs are switched OFF"
+  },
+  {
+    "question": "During taxi-out after “Cabin Clear” has been given, a passenger reports smoke coming from an overhead bin. What is your BEST action?",
+    "options": [
+      "Wait until take-off is complete before informing SCCM",
+      "Notify SCCM and wait for them to decide",
+      "Call the flight deck immediately via interphone, even though the flight deck is sterile",
+      "Ask other passengers to check and confirm before reporting"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Call the flight deck immediately via interphone, even though the flight deck is sterile"
+  },
+  {
+    "question": "During approach, a CCM notices fluid leaking from an overhead panel near the galley. What is the correct response considering sterile cockpit procedures?",
+    "options": [
+      "Wait until after landing when seatbelt signs are off",
+      "Attempt to clean the leak without informing anyone",
+      "Report immediately to flight deck via interphone because it could be a safety issue",
+      "Make a PA announcement asking passengers to avoid the area"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Report immediately to flight deck via interphone because it could be a safety issue"
+  },
+  {
+    "question": "Which of the following situations justifies breaking sterile flight deck protocol?",
+    "options": [
+      "A passenger requests to change seats",
+      "Galley oven stops working",
+      "Catering trolley brake feels stiff",
+      "Fire, smoke, unusual smells, or abnormal aircraft noises detected"
+    ],
+    "correct_letter": "D",
+    "correct_text": "Fire, smoke, unusual smells, or abnormal aircraft noises detected"
+  },
+  {
+    "question": "Which communication chain is correct during normal (non-emergency) operations?",
+    "options": [
+      "Any CCM calls flight deck directly for every issue",
+      "Ground crew relays messages to flight deck",
+      "CCM reports to SCCM, SCCM communicates with flight crew",
+      "SCCM only communicates after landing"
+    ],
+    "correct_letter": "C",
+    "correct_text": "CCM reports to SCCM, SCCM communicates with flight crew"
+  },
+  {
+    "question": "Cabin crew must ensure passengers are seated so that:",
+    "options": [
+      "Families sit together",
+      "All exit rows are occupied first",
+      "They will not hinder evacuation and can assist if needed",
+      "They match the seat numbers on their boarding passes"
+    ],
+    "correct_letter": "C",
+    "correct_text": "They will not hinder evacuation and can assist if needed"
+  },
+  {
+    "question": "Why must cabin crew avoid placing multiple physically large passengers in the same row segment?",
+    "options": [
+      "To maintain passenger comfort",
+      "To prevent overloading the seat structure and ensure quick evacuation access",
+      "To allow crew to reach them for meal service",
+      "To maintain aircraft center of gravity"
+    ],
+    "correct_letter": "B",
+    "correct_text": "To prevent overloading the seat structure and ensure quick evacuation access"
+  },
+  {
+    "question": "Why must hand baggage be stowed only in approved locations?",
+    "options": [
+      "To maximize overhead space for crew baggage",
+      "To keep the cabin looking tidy",
+      "To ensure it can be properly restrained and not obstruct passenger movement",
+      "To make boarding faster"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To ensure it can be properly restrained and not obstruct passenger movement"
+  },
+  {
+    "question": "What is the correct procedure regarding weight limitations for stowage areas?",
+    "options": [
+      "Ignore weight placards if baggage fits physically",
+      "Allow passengers to decide where to place heavy bags",
+      "Ensure placarded weight limitations are never exceeded",
+      "Distribute heavy items evenly in passenger seats"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Ensure placarded weight limitations are never exceeded"
+  },
+  {
+    "question": "Under-seat stowage may be used only when:",
+    "options": [
+      "The seat is empty",
+      "The seat is equipped with a restraint bar and the baggage can be secured",
+      "The bag is soft and flexible",
+      "Passenger prefers it for easy access"
+    ],
+    "correct_letter": "B",
+    "correct_text": "The seat is equipped with a restraint bar and the baggage can be secured"
+  },
+  {
+    "question": "What is the primary reason cabin crew must check baggage before take-off, landing, and when seatbelt signs are on?",
+    "options": [
+      "To prevent damage to passenger belongings",
+      "To make space for crew coats",
+      "To ensure baggage will not obstruct evacuation or cause injury by falling",
+      "To speed up cabin service"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To ensure baggage will not obstruct evacuation or cause injury by falling"
+  },
+  {
+    "question": "Which of the following is NOT permitted?",
+    "options": [
+      "Placing baggage in overhead lockers that close securely",
+      "Stowing coats and jackets in designated crew wardrobe",
+      "Placing baggage where it blocks access to emergency equipment or exit handles",
+      "Checking baggage security when seat belt sign is on"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Placing baggage where it blocks access to emergency equipment or exit handles"
+  },
+  {
+    "question": "When cabin space is insufficient for a passenger’s hand baggage, what must cabin crew do?",
+    "options": [
+      "Ask passenger to keep it on their lap",
+      "Place it on a vacant seat and secure with seat belt",
+      "Tag the baggage as DAA and have it stowed in the cargo compartment",
+      "Leave it in the galley area until after take-off"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Tag the baggage as DAA and have it stowed in the cargo compartment"
+  },
+  {
+    "question": "Before accepting a DAA bag for loading into the cargo compartment, cabin crew must ensure it does NOT contain:",
+    "options": [
+      "Duty-free shopping items",
+      "Medication, documentation, valuables, or carry-on–only dangerous goods such as lithium batteries",
+      "Clothing and shoes"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Medication, documentation, valuables, or carry-on–only dangerous goods such as lithium batteries"
+  },
+  {
+    "question": "What is the rule regarding hand baggage in lavatories?",
+    "options": [
+      "Allowed if passenger requests",
+      "Not allowed unless lavatory is placarded and weight limitation is observed",
+      "Allowed only during cruise",
+      "Allowed for crew members only"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Not allowed unless lavatory is placarded and weight limitation is observed"
+  },
+  {
+    "question": "What is CBBG (Cabin Baggage in Seat)?",
+    "options": [
+      "Any baggage placed in overhead compartments",
+      "Passenger’s carry-on placed under the seat",
+      "Baggage for which a separate seat is purchased, such as valuable or fragile items",
+      "Baggage placed in crew storage"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Baggage for which a separate seat is purchased, such as valuable or fragile items"
+  },
+  {
+    "question": "Which of the following is NOT a permitted characteristic of properly secured CBBG?",
+    "options": [
+      "Secured by a seatbelt or restraint strong enough to prevent shifting",
+      "Packaged to avoid injury to passengers or crew",
+      "Positioned to allow full access to emergency exits and aisles",
+      "Placed next to a bulkhead seat"
+    ],
+    "correct_letter": "D",
+    "correct_text": "Placed next to a bulkhead seat"
+  },
+  {
+    "question": "Where should CBBG be positioned relative to the aisle?",
+    "options": [
+      "In the aisle seat for quick removal",
+      "In the middle seat if possible",
+      "In the seat furthest from the aisle",
+      "Next to the emergency exit"
+    ],
+    "correct_letter": "C",
+    "correct_text": "In the seat furthest from the aisle"
+  },
+  {
+    "question": "Cabin crew must verify that CBBG:",
+    "options": [
+      "Is light enough to lift with one hand",
+      "Does not exceed seat load limitations and is secured to prevent movement",
+      "Is placed near an exit for easier unloading",
+      "Is kept unrestrained during cruise for passenger access"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Does not exceed seat load limitations and is secured to prevent movement"
+  },
+  {
+    "question": "Why must CBBG not obstruct view of seatbelt, no smoking, or exit signs?",
+    "options": [
+      "To maintain cabin appearance",
+      "To allow passengers to photograph the cabin",
+      "So passengers can comply with visual safety instructions",
+      "To allow crew to conduct cabin service more efficiently"
+    ],
+    "correct_letter": "C",
+    "correct_text": "So passengers can comply with visual safety instructions"
+  },
+  {
+    "question": "Passengers traveling with children should be seated:",
+    "options": [
+      "In separate rows for weight distribution",
+      "Away from exits",
+      "Next to or near each other, ideally within one row or aisle",
+      "At opposite ends of the cabin"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Next to or near each other, ideally within one row or aisle"
+  },
+  {
+    "question": "When moving passengers for aircraft balance control, cabin crew should:",
+    "options": [
+      "Move passengers freely to any available seat",
+      "Move passengers to exit rows for better weight distribution",
+      "Move passengers within their section only, unless flight crew permission is obtained",
+      "Always move passengers toward the front of the aircraft"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Move passengers within their section only, unless flight crew permission is obtained"
+  },
+  {
+    "question": "Why must at least one passenger be seated on each side of a row with direct access to an emergency exit during taxi, take-off, and landing?",
+    "options": [
+      "To make boarding faster",
+      "To balance the cabin visually",
+      "To ensure someone is present to operate the exit if needed",
+      "To reserve the space for crew baggage"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To ensure someone is present to operate the exit if needed"
+  },
+  {
+    "question": "During boarding, the flight is only 40% full. You notice both seats next to an overwing exit are empty. What is the MOST appropriate action?",
+    "options": [
+      "Leave the seats empty to allow easier crew access.",
+      "Fill the seats with any passengers to balance the cabin.",
+      "Seat at least one able-bodied passenger on each side of the exit row, unless doing so would violate mass and balance limitations",
+      "Assign those seats to parents with infants for extra space."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Seat at least one able-bodied passenger on each side of the exit row, unless doing so would violate mass and balance limitations"
+  },
+  {
+    "question": "A healthy passenger seated at an exit row is wearing noise-cancelling headphones and refuses to remove them during the safety briefing. What is the BEST response?",
+    "options": [
+      "Allow them to stay since they are physically fit.",
+      "Reseat them in a non-exit row and assign someone willing and attentive to assist",
+      "Repeat the briefing at a louder volume and let them remain.",
+      "Allow them to stay if they promise to remove the headphones in an actual emergency."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Reseat them in a non-exit row and assign someone willing and attentive to assist"
+  },
+  {
+    "question": "Taxi out, faint smell of smoke in cabin. An anxious exit-row passenger reaches for the handle. Which briefing element—if delivered properly—MOST directly prevents this unsafe action?",
+    "options": [
+      "Taxi out, faint smell of smoke in cabin. An anxious exit-row passenger reaches for the handle. Which briefing element—if delivered properly—MOST directly prevents this unsafe action?",
+      "“Do not open the emergency exit unless instructed by the crew.”",
+      "“Call other passengers toward the exit once opened.”"
+    ],
+    "correct_letter": "B",
+    "correct_text": "“Do not open the emergency exit unless instructed by the crew.”"
+  },
+  {
+    "question": "You’re briefing a left overwing (Type III) exit. Which instruction BEST captures the hazard-check decision before operating the exit?",
+    "options": [
+      "“Open immediately; the slide will handle any fire.”",
+      "“If you see any hazard outside, wait for the captain’s PA.”",
+      "“Before opening, look outside. If there’s fire/debris/obstruction at this exit, do NOT open—redirect people to the nearest usable exit.”",
+      "“Open first, then decide whether to redirect passengers.”"
+    ],
+    "correct_letter": "C",
+    "correct_text": "“Before opening, look outside. If there’s fire/debris/obstruction at this exit, do NOT open—redirect people to the nearest usable exit.”"
+  },
+  {
+    "question": "During the briefing, one exit-row passenger nods but seems distracted. What is the BEST way to establish understanding and compliance?",
+    "options": [
+      "Accept the nod; time is short.",
+      "Hand them the safety card only.",
+      "Ask them to verbally confirm willingness and briefly repeat back key steps; if unsure/unwilling, reseat and brief a replacement.",
+      "Promise to re-brief after take-off"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Ask them to verbally confirm willingness and briefly repeat back key steps; if unsure/unwilling, reseat and brief a replacement."
+  },
+  {
+    "question": "You have a BLIND passenger traveling alone seated in row 15. What is the MOST appropriate action before take-off?",
+    "options": [
+      "Provide no additional briefing, as crew safety demo is enough.",
+      "Offer a tactile safety briefing, explain location of exits, and confirm they understand evacuation procedures.",
+      "Move them automatically to an exit row for easier evacuation.",
+      "Provide them a seat belt extension for comfort, regardless of size."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Offer a tactile safety briefing, explain location of exits, and confirm they understand evacuation procedures."
+  },
+  {
+    "question": "Which passenger MUST be seated with an escort or companion?",
+    "options": [
+      "WCHR passenger",
+      "MAAS passenger",
+      "DEAF/BLIND passenger who cannot move unaided",
+      "INF (infant under 2 years old)"
+    ],
+    "correct_letter": "C",
+    "correct_text": "DEAF/BLIND passenger who cannot move unaided"
+  },
+  {
+    "question": "You are informed of a DEPU (deportee unescorted) traveling in economy class. What is your primary safety consideration?",
+    "options": [
+      "Give them priority boarding.",
+      "Provide a seat near an emergency exit.",
+      "Seat them away from exits, brief cabin crew discreetly, and follow security procedures",
+      "Place them next to the flight deck door for supervision."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Seat them away from exits, brief cabin crew discreetly, and follow security procedures"
+  },
+  {
+    "question": "A passenger at 33 weeks pregnant with one baby arrives for check-in with no medical certificate. What is the correct action?",
+    "options": [
+      "Deny boarding immediately.",
+      "Require medical clearance before boarding.",
+      "Accept her without a medical certificate, as she is within the unrestricted period (≤34 weeks).",
+      "Seat her in an exit row for comfort."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Accept her without a medical certificate, as she is within the unrestricted period (≤34 weeks)."
+  },
+  {
+    "question": "A passenger carrying twins presents a valid medical certificate dated 15 days ago and is at 30 weeks pregnancy. What should you do?",
+    "options": [
+      "Accept without issue; certificate validity is not critical.",
+      "Deny boarding as she exceeds DAT’s policy.",
+      "Request updated documentation because the certificate is valid for only 14 days from date of issue.",
+      "Allow boarding only if the flight time is under 4 hours."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Request updated documentation because the certificate is valid for only 14 days from date of issue."
+  },
+  {
+    "question": "At what point is DAT policy to refuse carriage for a pregnant passenger carrying one baby?",
+    "options": [
+      "34 weeks and beyond",
+      "36 weeks and beyond",
+      "38 weeks and beyond",
+      "40 weeks and beyond"
+    ],
+    "correct_letter": "C",
+    "correct_text": "38 weeks and beyond"
+  },
+  {
+    "question": "Which seating restriction applies to all expectant mothers?",
+    "options": [
+      "Must be seated at the rear for quicker disembarkation",
+      "Must not be seated in an emergency exit row or first row",
+      "Must be seated in aisle seat only",
+      "Must be seated next to crew jump seat for monitoring"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Must not be seated in an emergency exit row or first row"
+  },
+  {
+    "question": "During cabin checks, you notice an expectant mother’s lap belt positioned across the belly. What is the correct action?",
+    "options": [
+      "Do nothing, as it is her choice.",
+      "Ask her to loosen the belt for comfort.",
+      "Brief her to reposition the seat belt low, under the belly, for safety",
+      "Offer her a belt extension so the belt crosses higher."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Brief her to reposition the seat belt low, under the belly, for safety"
+  },
+  {
+    "question": "A passenger traveling alone arrives with two infants. What is the MOST compliant solution?",
+    "options": [
+      "Allow one infant to sit on the lap and the second to share the lap during cruise.",
+      "Deny boarding for both infants.",
+      "Require either a second adult companion (≥16 years) or book an extra seat with an approved Child Restraint Device (CRD) for one infant.",
+      "Seat them together in an exit row for easier evacuation."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Require either a second adult companion (≥16 years) or book an extra seat with an approved Child Restraint Device (CRD) for one infant."
+  },
+  {
+    "question": "During boarding, you notice a passenger with an infant seated in the first row. What is the correct action?",
+    "options": [
+      "Leave them there for extra legroom.",
+      "Move them closer to the exit for quicker evacuation.",
+      "Reseat them away from first row as infants must not be seated there.",
+      "Place them in a jump seat during take-off."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Reseat them away from first row as infants must not be seated there."
+  },
+  {
+    "question": "What is the primary limitation regarding the number of infants per row segment on Airbus aircraft?",
+    "options": [
+      "Number of seats available.",
+      "Cabin crew preference.",
+      "Number of oxygen masks installed per row segment must not be exceeded.",
+      "Number of available infant belts."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Number of oxygen masks installed per row segment must not be exceeded."
+  },
+  {
+    "question": "A 10-year-old arrives at the gate, traveling alone but not marked as a UM on the Passenger Information Sheet. What is the MOST appropriate action?",
+    "options": [
+      "Board them as a regular passenger since they are over 5 years old.",
+      "Ask another passenger to act as their guardian during the flight.",
+      "Inform Ground Operations that the passenger must be processed as a UM before boarding and reflected on the Passenger Information Sheet",
+      "Allow them to sit near an exit for extra legroom."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Inform Ground Operations that the passenger must be processed as a UM before boarding and reflected on the Passenger Information Sheet"
+  },
+  {
+    "question": "When seating UMs, which of the following is correct?",
+    "options": [
+      "They may sit at an over-wing exit if an able-bodied adult is next to them.",
+      "They should always be seated in the very last row.",
+      "They must not be seated in exit rows or first row and should be placed near cabin crew for supervision (typically FWD or AFT seats.Window seats.",
+      "They should be seated next to a passenger with an infant for additional care."
+    ],
+    "correct_letter": "C",
+    "correct_text": "They must not be seated in exit rows or first row and should be placed near cabin crew for supervision (typically FWD or AFT seats.Window seats."
+  },
+  {
+    "question": "A UM seated in 14A is next to an adult passenger. What specific instructions should you give that adult?",
+    "options": [
+      "Only to monitor the UM quietly.",
+      "To assist the UM in fitting an oxygen mask, securing/releasing seatbelt, and calling crew in any emergency",
+      "To keep the UM entertained during flight.",
+      "To escort the UM off the aircraft after landing."
+    ],
+    "correct_letter": "B",
+    "correct_text": "To assist the UM in fitting an oxygen mask, securing/releasing seatbelt, and calling crew in any emergency"
+  },
+  {
+    "question": "You have four PRMs on today’s flight. What is your responsibility before departure?",
+    "options": [
+      "Ensure they are seated anywhere they prefer without reporting it.",
+      "Load them last to avoid delaying other passengers.",
+      "Notify the Commander of the final number of PRMs on board and ensure they are appropriately briefed and seated",
+      "Seat all PRMs near the overwing exits for quick evacuation."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Notify the Commander of the final number of PRMs on board and ensure they are appropriately briefed and seated"
+  },
+  {
+    "question": "During the personal briefing of a PRM with a mobility aid (e.g., wheelchair), what must you inform them?",
+    "options": [
+      "To keep their mobility aid with them in the cabin for safety.",
+      "That the mobility aid must be left behind in an emergency evacuation",
+      "That crew will retrieve their mobility aid before evacuation.",
+      "That they can only evacuate after all able-bodied passengers."
+    ],
+    "correct_letter": "B",
+    "correct_text": "That the mobility aid must be left behind in an emergency evacuation"
+  },
+  {
+    "question": "A passenger with lower limb disability is traveling alone. Which seat allocation is MOST appropriat",
+    "options": [
+      "First row seat near galley for service.",
+      "Exit row seat for quick egress.",
+      "Seat near a floor-level exit with unobstructed access",
+      "Middle seat in a full row for stability."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Seat near a floor-level exit with unobstructed access"
+  },
+  {
+    "question": "A passenger with upper limb disability is traveling without an accompanying person. What is your primary seating consideration?",
+    "options": [
+      "Seat them near lavatories for convenience.",
+      "Seat them near overwing exits to assist with balance.",
+      "Allocate a seat that allows visual and audible communication with cabin crew",
+      "Seat them in a middle seat to ensure other passengers can assist."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Allocate a seat that allows visual and audible communication with cabin crew"
+  },
+  {
+    "question": "In a decompression scenario, which is the correct sequence for an accompanying passenger assisting an SCP (Severely Disabled Passenger)?",
+    "options": [
+      "Fit the SCP’s oxygen mask first, then their own.",
+      "Wait for cabin crew to fit both masks.",
+      "Fit their own mask first, then assist the SCP with theirs",
+      "Do nothing unless instructed by crew."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Fit their own mask first, then assist the SCP with theirs"
+  },
+  {
+    "question": "During boarding, you are approached by a blind passenger using a cane who declines assistance. What is your BEST action?",
+    "options": [
+      "Escort them firmly to their seat regardless.",
+      "Assign them a special boarding priority.",
+      "Respect their independence but offer assistance if needed, introducing yourself by light touch on the shoulder and staying half a step ahead if they accept",
+      "Refuse boarding until an escort is provided."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Respect their independence but offer assistance if needed, introducing yourself by light touch on the shoulder and staying half a step ahead if they accept"
+  },
+  {
+    "question": "Which seating-related instruction is MOST helpful during a blind passenger briefing?",
+    "options": [
+      "Describe the color of the seat covers.",
+      "Show them the entertainment system controls.",
+      "Explain seatbelt operation, number of rows to nearest exit, and location of call button, lavatory, and oxygen masks",
+      "Tell them only that crew will assist in case of emergency."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Explain seatbelt operation, number of rows to nearest exit, and location of call button, lavatory, and oxygen masks"
+  },
+  {
+    "question": "A deaf passenger cannot lip read. Which is the BEST way to brief them on safety procedures?",
+    "options": [
+      "Write the instructions down or use visual aids (safety card/demonstration equipment)",
+      "Allow them to observe other passengers and assume compliance.",
+      "Skip the individual briefing since they are seated.",
+      "Shout and repeat the instructions multiple times."
+    ],
+    "correct_letter": "A",
+    "correct_text": "Write the instructions down or use visual aids (safety card/demonstration equipment)"
+  },
+  {
+    "question": "During a decompression event, how should you ensure a deaf passenger follows oxygen mask procedures?",
+    "options": [
+      "Rely on PA announcements only.",
+      "Write instructions on paper before donning your mask.",
+      "Wait for the passenger to notice crew actions.",
+      "Demonstrate visually and point clearly to mask while securing your own first"
+    ],
+    "correct_letter": "D",
+    "correct_text": "Demonstrate visually and point clearly to mask while securing your own first"
+  },
+  {
+    "question": "During boarding, you encounter a passenger who appears agitated, shouting, and refusing to follow crew instructions. What is the correct procedure?",
+    "options": [
+      "Allow them to board to avoid delaying the flight.",
+      "Consult with the Commander — carriage may be refused if the passenger poses a flight safety risk",
+      "Provide extra seating space and let them fly unaccompanied.",
+      "Ask another passenger to supervise them."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Consult with the Commander — carriage may be refused if the passenger poses a flight safety risk"
+  },
+  {
+    "question": "Under what condition may a mentally impaired passenger travel unaccompanied?",
+    "options": [
+      "When seated away from other passengers.",
+      "When ground staff confirms they are calm at check-in.",
+      "When they can understand and follow flight safety and security instructions",
+      "When they have a written statement from their family."
+    ],
+    "correct_letter": "C",
+    "correct_text": "When they can understand and follow flight safety and security instructions"
+  },
+  {
+    "question": "When must a mentally impaired passenger be accompanied by a guardian or nurse?",
+    "options": [
+      "Always, regardless of their ability.",
+      "When they cannot remain calm or might not follow crew instructions, posing a safety risk",
+      "Only on flights longer than four hours.",
+      "Only on international flights."
+    ],
+    "correct_letter": "B",
+    "correct_text": "When they cannot remain calm or might not follow crew instructions, posing a safety risk"
+  },
+  {
+    "question": "Why might a passenger with a Sunflower lanyard need additional time or assistance?",
+    "options": [
+      "They may be carrying excess baggage.",
+      "They are entitled to priority service by law.",
+      "They may have a non-visible condition (e.g., autism, sensory impairment, chronic pain) that affects how they process tasks",
+      "They require cabin crew to sit next to them during the flight."
+    ],
+    "correct_letter": "C",
+    "correct_text": "They may have a non-visible condition (e.g., autism, sensory impairment, chronic pain) that affects how they process tasks"
+  },
+  {
+    "question": "A passenger boards with a privately owned POB and no prior approval from DAT. What is the correct procedure?",
+    "options": [
+      "Allow boarding since it is for medical purposes.",
+      "Accept only if the bottle looks clean and undamaged.",
+      "Deny carriage until proper DAT approval and medical clearance are confirmed",
+      "Store the bottle in the galley for safety."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Deny carriage until proper DAT approval and medical clearance are confirmed"
+  },
+  {
+    "question": "When must the SCCM inform the Commander about passengers with POB?",
+    "options": [
+      "Only if more than 3 bottles are on board.",
+      "Only if passengers are seated in exit rows.",
+      "Before departure, providing verbal information about the number of POBs and their locations",
+      "After take-off during cabin secure check."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Before departure, providing verbal information about the number of POBs and their locations"
+  },
+  {
+    "question": "Which of the following requirements is NOT acceptable for POB carriage?",
+    "options": [
+      "POB manufactured for medical use.",
+      "Weight of POB ≤ 5 kg, containing no liquid oxygen.",
+      "Valves and regulators protected from damage.",
+      "POB with visible cracks but partially functional"
+    ],
+    "correct_letter": "D",
+    "correct_text": "POB with visible cracks but partially functional"
+  },
+  {
+    "question": "Where should a passenger with a POB ideally be seated?",
+    "options": [
+      "In an emergency exit row for quick evacuation.",
+      "In an aisle seat for easier access.",
+      "In a window seat if possible, away from emergency exits",
+      "Near the galley for crew supervision."
+    ],
+    "correct_letter": "C",
+    "correct_text": "In a window seat if possible, away from emergency exits"
+  },
+  {
+    "question": "During boarding, you notice a POB is loosely placed on the passenger’s lap. What is the correct action?",
+    "options": [
+      "Leave it as is, as long as it is turned off.",
+      "Instruct the passenger to secure it in their own approved stowage so it remains secured during all phases of flight",
+      "Place it under a spare seat for them.",
+      "Ask them to hold it during taxi, take-off, and landing for accessibility."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Instruct the passenger to secure it in their own approved stowage so it remains secured during all phases of flight"
+  },
+  {
+    "question": "A passenger boards with a POC but no medical clearance. What is the correct action?",
+    "options": [
+      "Allow them to fly as long as the POC appears functional.",
+      "Request that they provide prior medical clearance confirming both fitness to fly and need for supplemental oxygen",
+      "Ask them to switch off the POC during taxi and take-off.",
+      "Only require clearance for international flights."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Request that they provide prior medical clearance confirming both fitness to fly and need for supplemental oxygen"
+  },
+  {
+    "question": "Why are POCs considered Portable Electronic Devices (PEDs)?",
+    "options": [
+      "They are stored in overhead lockers with other electronics.",
+      "They contain lithium batteries and must follow PED safety/fire procedures",
+      "They must be switched off during critical phases.",
+      "They function as Wi-Fi devices."
+    ],
+    "correct_letter": "B",
+    "correct_text": "They contain lithium batteries and must follow PED safety/fire procedures"
+  },
+  {
+    "question": "In case of smoke or fire involving a POC, what procedure should crew follow?",
+    "options": [
+      "Ask the passenger to unplug the device and continue use after cooling.",
+      "Follow lithium battery fire procedures, using appropriate firefighting and containmen",
+      "Move the device to an empty seat away from passengers.",
+      "Place the device in a lavatory and close the door."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Follow lithium battery fire procedures, using appropriate firefighting and containmen"
+  },
+  {
+    "question": "Which seating and stowage requirements apply to passengers with POCs?",
+    "options": [
+      "POC must be placed on lap for quick access and passenger seated in exit row.",
+      "POC may be left unsecured if flight is short.",
+      "POC must fit under the seat, be stowed and secured during all phases, and passenger must NOT be seated in an exit row",
+      "POC must always be placed in an overhead locker during take-off and landing."
+    ],
+    "correct_letter": "C",
+    "correct_text": "POC must fit under the seat, be stowed and secured during all phases, and passenger must NOT be seated in an exit row"
+  },
+  {
+    "question": "During pre-flight briefing, what is a critical point cabin crew must communicate to a passenger using a POC?",
+    "options": [
+      "To remove batteries before flight to avoid interference.",
+      "To stop using POC during decompression events.",
+      "To use drop-down oxygen masks in case of decompression, despite having a POC",
+      "To keep POC turned off during turbulence to save battery."
+    ],
+    "correct_letter": "C",
+    "correct_text": "To use drop-down oxygen masks in case of decompression, despite having a POC"
+  },
+  {
+    "question": "During boarding, a passenger presents a dog wearing a harness but no documentation, claiming it is a “therapy companion dog.” What is the correct action?",
+    "options": [
+      "Accept the dog as long as it is calm.",
+      "Seat the dog anywhere with its owner.",
+      "Deny cabin carriage unless it is a bona fide service dog (trained to perform tasks for a disability) or emotional support animal with proper documentation"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Deny cabin carriage unless it is a bona fide service dog (trained to perform tasks for a disability) or emotional support animal with proper documentation"
+  },
+  {
+    "question": "Where must a recognized assistance dog be seated during the flight?",
+    "options": [
+      "In the passenger’s lap for reassurance.",
+      "On an empty seat next to the passenger.",
+      "On the floor at the passenger’s feet, ideally at a bulkhead window seat to keep aisles clear",
+      "In the aisle for quick access to the lavatory."
+    ],
+    "correct_letter": "C",
+    "correct_text": "On the floor at the passenger’s feet, ideally at a bulkhead window seat to keep aisles clear"
+  },
+  {
+    "question": "What is the correct decompression procedure briefing for a passenger traveling with a service dog?",
+    "options": [
+      "Secure dog first, then put on own mask.",
+      "Wait for crew to fit the dog’s mask.",
+      "First secure their own oxygen mask, fasten seatbelt, then place spare mask over dog’s muzzle",
+      "Leave the dog unsecured until the situation stabilizes."
+    ],
+    "correct_letter": "C",
+    "correct_text": "First secure their own oxygen mask, fasten seatbelt, then place spare mask over dog’s muzzle"
+  },
+  {
+    "question": "If a nearby passenger complains of allergies to the service dog, what is the correct cabin crew response?",
+    "options": [
+      "Remove the service dog from the cabin.",
+      "Ask the owner to move to a different seat.",
+      "Re-seat the complaining passenger while keeping the service dog with its owner",
+      "Provide a face mask to the passenger and do nothing else."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Re-seat the complaining passenger while keeping the service dog with its owner"
+  },
+  {
+    "question": "A passenger boards with a cat in a hard plastic crate that is slightly too tall to fit under the seat. What is the correct action?",
+    "options": [
+      "Allow it as long as the crate door is closed securely.",
+      "Place the crate in an empty seat next to the passenger.",
+      "Deny carriage unless the passenger provides an approved soft carrier that fits under the seat",
+      "Allow the crate to remain partially in the aisle during flight."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Deny carriage unless the passenger provides an approved soft carrier that fits under the seat"
+  },
+  {
+    "question": "What is the maximum allowed combined weight of the PETC and carrier bag?",
+    "options": [
+      "5 kg",
+      "8 kg",
+      "10 kg",
+      "No weight limit is specified."
+    ],
+    "correct_letter": "B",
+    "correct_text": "8 kg"
+  },
+  {
+    "question": "Two small dogs belonging to the same passenger are traveling together. Under what condition can they be accepted in one carrier?",
+    "options": [
+      "If their combined weight does not exceed 10 kg.",
+      "If they are puppies under 6 months old.",
+      "If they are of the same species and total weight does not exceed 8 kg",
+      "If the passenger pays for an additional seat."
+    ],
+    "correct_letter": "C",
+    "correct_text": "If they are of the same species and total weight does not exceed 8 kg"
+  },
+  {
+    "question": "Which of the following animals are NOT allowed to travel in the passenger cabin?",
+    "options": [
+      "Small dogs under 8 kg",
+      "Cats with valid vaccination papers",
+      "Rodents",
+      "Two puppies of the same litter"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Rodents"
+  },
+  {
+    "question": "During boarding, a passenger complains of allergies to a nearby PETC. What is the correct crew response?",
+    "options": [
+      "Deny travel to the passenger with the PETC.",
+      "Ask the passenger with the PETC to put the animal in the galley.",
+      "Re-seat the allergic passenger away from the PETC",
+      "Allow them to remain seated together and monitor the situation."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Re-seat the allergic passenger away from the PETC"
+  },
+  {
+    "question": "During final approach, a cabin crew member is seen using their phone to check messages while seated on the jump seat. What is the correct action?",
+    "options": [
+      "Allow it if the phone is in flight mode.",
+      "Prohibit PED use — crew must focus on safety-related duties during take-off/landing",
+      "Allow as long as no passengers see them.",
+      "Permit if the device is used only for entertainment."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Prohibit PED use — crew must focus on safety-related duties during take-off/landing"
+  },
+  {
+    "question": "Where are PEDs NOT permitted to be stored?",
+    "options": [
+      "In the crew bag",
+      "In overhead stowage",
+      "In or behind crew seats",
+      "In galley compartments"
+    ],
+    "correct_letter": "C",
+    "correct_text": "In or behind crew seats"
+  },
+  {
+    "question": "A crew member uses their tablet to review the cabin crew operating manual during taxi-out. Is this acceptable?",
+    "options": [
+      "No, PED use is prohibited during taxi under all circumstances.",
+      "Yes, provided it is operational use, device is secured after use, and does not interfere with safety duties",
+      "Yes, as long as passengers are not watching.",
+      "No, unless approved by the Commander."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Yes, provided it is operational use, device is secured after use, and does not interfere with safety duties"
+  },
+  {
+    "question": "During Low Visibility Operations (LVOs), which is the correct PED procedure?",
+    "options": [
+      "Keep PEDs in flight mode.",
+      "Use PEDs freely as long as no RF interference occurs.",
+      "Completely power off PEDs as per EASA requirements",
+      "Switch to airplane Wi-Fi mode only."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Completely power off PEDs as per EASA requirements"
+  },
+  {
+    "question": "A crew member is found watching a movie on their phone during the cruise. What is the correct response by SCCM?",
+    "options": [
+      "Allow it if the passenger cabin is calm.",
+      "Ignore it since PEDs are allowed in flight.",
+      "Remind crew that PEDs must not be used for entertainment purposes and may negatively impact passenger perception",
+      "Permit as long as the movie has no sound."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Remind crew that PEDs must not be used for entertainment purposes and may negatively impact passenger perception"
+  },
+  {
+    "question": "Who has the ultimate responsibility for passenger safety during embarkation?",
+    "options": [
+      "Ground Handling Supervisor",
+      "SCCM",
+      "Commander and DAT representatives",
+      "Airport Security"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Commander and DAT representatives"
+  },
+  {
+    "question": "When can Ground Staff begin passenger boarding?",
+    "options": [
+      "As soon as the aircraft arrives on stand.",
+      "Only after receiving a clear signal from Cabin Crew",
+      "When passengers are gathered at the gate, regardless of crew readiness.",
+      "When the SCCM announces boarding over the PA."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Only after receiving a clear signal from Cabin Crew"
+  },
+  {
+    "question": "When may Cabin Crew begin boarding passengers?",
+    "options": [
+      "As soon as they are ready with pre-flight checks.",
+      "After the first passengers arrive from the gate.",
+      "Only after receiving clear signals from both Ground Staff and Commander",
+      "Immediately after the “boarding in 5 minutes” gate announcement."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Only after receiving clear signals from both Ground Staff and Commander"
+  },
+  {
+    "question": "While greeting passengers, you notice a passenger who smells strongly of alcohol and is staggering. What is the correct action?",
+    "options": [
+      "Allow them to board quietly to avoid a scene.",
+      "Wait until after take-off to assess their behavior.",
+      "Refuse embarkation if necessary, but make the final decision together with the Commander",
+      "Seat them at the back of the cabin so they disturb fewer passengers."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Refuse embarkation if necessary, but make the final decision together with the Commander"
+  },
+  {
+    "question": "During boarding, you notice a passenger placing a heavy bag on the floor in the exit row. What should you do?",
+    "options": [
+      "Leave it if the passenger insists.",
+      "Instruct the passenger to stow it in the overhead bin",
+      "Allow it as long as the bag is small.",
+      "Move the bag to another passenger’s seat row."
+    ],
+    "correct_letter": "B",
+    "correct_text": "Instruct the passenger to stow it in the overhead bin"
+  },
+  {
+    "question": "During boarding, a passenger tries to bring a container with flammable liquid onto the aircraft. What is the correct crew response?",
+    "options": [
+      "Store it safely in the galley.",
+      "Allow it if sealed tightly.",
+      "Refuse carriage and alert Commander/ground staff as it constitutes dangerous goods",
+      "Ask passenger to keep it under the seat and not open it."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Refuse carriage and alert Commander/ground staff as it constitutes dangerous goods"
+  },
+  {
+    "question": "Which step is necessary before take-off for passengers seated at emergency exits?",
+    "options": [
+      "Offer them free headsets for comfort.",
+      "Skip briefing if they look capable.",
+      "Provide a verbal briefing on their responsibilities in case of emergency",
+      "Re-seat them all in the front rows."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Provide a verbal briefing on their responsibilities in case of emergency"
+  },
+  {
+    "question": "Who is responsible for giving the “Boarding Complete” signal?",
+    "options": [
+      "Ground staff only",
+      "Flight Deck crew only",
+      "SCCM or the Commander",
+      "Any cabin crew member available"
+    ],
+    "correct_letter": "C",
+    "correct_text": "SCCM or the Commander"
+  },
+  {
+    "question": "What is the purpose of the Seating Report?",
+    "options": [
+      "To record the seat numbers of special category passengers only",
+      "To verify crew positions during boarding",
+      "To confirm the actual number of passengers on board matches the number checked in",
+      "To list all passengers’ meal preferences"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To confirm the actual number of passengers on board matches the number checked in"
+  },
+  {
+    "question": "When is SCCM required to fill out and sign the Seating Report?",
+    "options": [
+      "At the end of the flight",
+      "Only if requested by ground handling",
+      "If required by the Commander",
+      "Only on flights with more than 100 passengers"
+    ],
+    "correct_letter": "C",
+    "correct_text": "If required by the Commander"
+  },
+  {
+    "question": "After completing the Seating Report, SCCM must:",
+    "options": [
+      "Store it in the galley documentation folder",
+      "Read it aloud to passengers",
+      "Give it to the Commander",
+      "Email it to ground operations"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Give it to the Commander"
+  },
+  {
+    "question": "After the seating report is given, who gives the command to close the doors?",
+    "options": [
+      "SCCM automatically after passenger count",
+      "Commander",
+      "Ground handling staff",
+      "Any available cabin crew"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Commander"
+  },
+  {
+    "question": "On an ATR72, what is the correct phrase SCCM/CCM1 must report to the Commander after closing doors?",
+    "options": [
+      "\"Doors closed, ready for taxi\"",
+      "\"Doors locked\"",
+      "\"Door(s) closed, tail prop on board\"",
+      "\"Cabin secure\""
+    ],
+    "correct_letter": "C",
+    "correct_text": "\"Door(s) closed, tail prop on board\""
+  },
+  {
+    "question": "What is the correct SCCM PA command for door closure on A320/A321?",
+    "options": [
+      "“Cabin Crew, Close doors and wait for confirmation.”",
+      "“Cabin Crew, Close doors, prepare cabin.”",
+      "“Cabin Crew, Close doors, Arm slides, Cross-Check and Report”",
+      "“Cabin Crew, Arm slides, Cabin Secure.”"
+    ],
+    "correct_letter": "C",
+    "correct_text": "“Cabin Crew, Close doors, Arm slides, Cross-Check and Report”"
+  },
+  {
+    "question": "When arming doors, what is the correct sequence described by the phrase “PIN – LEVER – PIN”?",
+    "options": [
+      "Insert pin, check lever, remove pin",
+      "Remove pin, close door, reinsert pin",
+      "Remove safety pin, select ARMED, insert pin into stowage hole",
+      "Pull lever first, then remove and discard safety pin"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Remove safety pin, select ARMED, insert pin into stowage hole"
+  },
+  {
+    "question": "When must the safety demonstration be performed?",
+    "options": [
+      "At cruise altitude",
+      "After the first beverage service",
+      "As soon as possible after doors have been closed",
+      "After the aircraft begins taxiing"
+    ],
+    "correct_letter": "C",
+    "correct_text": "As soon as possible after doors have been closed"
+  },
+  {
+    "question": "What language must be used for the safety demonstration when operating in a foreign country?",
+    "options": [
+      "The native language of the cabin crew",
+      "Only the local language of the departure airport",
+      "English, and a second language if necessary as per announcement folder",
+      "No language requirement, demonstration only"
+    ],
+    "correct_letter": "C",
+    "correct_text": "English, and a second language if necessary as per announcement folder"
+  },
+  {
+    "question": "After receiving “Cabin Clear” from all CCMs, what is SCCM’s next step?",
+    "options": [
+      "Begin inflight announcements",
+      "Proceed to check flight deck door",
+      "Report “Cabin Clear” via interphone to Commander"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Report “Cabin Clear” via interphone to Commander"
+  },
+  {
+    "question": "During approach, you are performing galley cleanup when the F/D gives the final call for cabin crew to be seated. What is the correct action?",
+    "options": [
+      "Finish cleaning quickly before sitting down.",
+      "Secure loose items but remain standing until landing is imminent.",
+      "Stop immediately, take assigned jump seat, fasten harness, and begin silent review",
+      "Wait for SCCM’s personal instruction before sitting down."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Stop immediately, take assigned jump seat, fasten harness, and begin silent review"
+  },
+  {
+    "question": "Which of the following is NOT part of the silent review?",
+    "options": [
+      "Operation of exits",
+      "Location of emergency equipment",
+      "Commands and brace positions",
+      "Passenger meal orders"
+    ],
+    "correct_letter": "D",
+    "correct_text": "Passenger meal orders"
+  },
+  {
+    "question": "What is the correct seating position during take-off and landing?",
+    "options": [
+      "Feet crossed, hands folded in lap",
+      "Feet flat, one hand on interphone",
+      "Feet flat on the floor, back straight, palms on lap or under thighs",
+      "Any comfortable position as long as seatbelt is fastened"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Feet flat on the floor, back straight, palms on lap or under thighs"
+  },
+  {
+    "question": "During silent review, you hear an unusual grinding noise and smell smoke. What is your immediate action?",
+    "options": [
+      "Wait until after take-off to inform the flight crew.",
+      "Alert the nearest passenger to prepare for evacuation.",
+      "Immediately contact the flight deck via interphone to report the abnormal situation",
+      "Assume it is normal engine noise and remain silent."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Immediately contact the flight deck via interphone to report the abnormal situation"
+  },
+  {
+    "question": "Why is silent review important during take-off and landing?",
+    "options": [
+      "It helps cabin crew stay calm and think about service sequence.",
+      "It gives crew time to check personal devices before taxi.",
+      "It mentally prepares crew for unexpected emergencies and allows faster, more coordinated response",
+      "It is only a company policy, not a safety requirement."
+    ],
+    "correct_letter": "C",
+    "correct_text": "It mentally prepares crew for unexpected emergencies and allows faster, more coordinated response"
+  },
+  {
+    "question": "When must cabin crew remain seated after take-off?",
+    "options": [
+      "Until 10,000 ft altitude is reached",
+      "Until the “Fasten Seat Belt” sign has been switched OFF",
+      "Until SCCM announces start of service",
+      "Until passengers have stowed their bags"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Until the “Fasten Seat Belt” sign has been switched OFF"
+  },
+  {
+    "question": "If no call from the flight deck is received within 30 minutes after take-off, what must SCCM/CCM1 do?",
+    "options": [
+      "Wait until landing to report it",
+      "Knock on flight deck door repeatedly",
+      "Initiate an interphone call to the flight deck, then repeat contact every 30 minutes"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Initiate an interphone call to the flight deck, then repeat contact every 30 minutes"
+  },
+  {
+    "question": "During the first post-takeoff call, what is the main purpose of establishing two-way communication with the flight deck?",
+    "options": [
+      "To discuss flight service preferences",
+      "To confirm flight time to destination",
+      "To verify crew well-being and detect early signs of incapacitation",
+      "To request weather updates for PA"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To verify crew well-being and detect early signs of incapacitation"
+  },
+  {
+    "question": "During in-flight service, a CCM needs to step away from the cart briefly to assist a passenger. What must they do first?",
+    "options": [
+      "Leave the cart where it is and hurry back",
+      "Engage the braking device to prevent cart movement",
+      "Ask a nearby passenger to hold the cart",
+      "Move the cart to the galley before leaving"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Engage the braking device to prevent cart movement"
+  },
+  {
+    "question": "A passenger shows signs of intoxication but requests another alcoholic drink. What is the correct response?",
+    "options": [
+      "Serve a smaller amount to avoid confrontation",
+      "Politely refuse service of alcohol and monitor passenger behavior",
+      "Serve them one more drink, then inform SCCM",
+      "Offer a complimentary drink to calm them"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Politely refuse service of alcohol and monitor passenger behavior"
+  },
+  {
+    "question": "Before departure, you notice that one catering trolley seal does not match the delivery note. What is your correct action?",
+    "options": [
+      "Ignore it if the trolley appears full.",
+      "Wait until after landing to report it.",
+      "Inform the Commander immediately and inspect the trolley by breaking/opening the seal",
+      "Serve from the trolley and report after service."
+    ],
+    "correct_letter": "C",
+    "correct_text": "Inform the Commander immediately and inspect the trolley by breaking/opening the seal"
+  },
+  {
+    "question": "Why must flight crew members occupying pilot seats never have the same meal?",
+    "options": [
+      "To avoid passenger complaints",
+      "To ensure fairness between pilots",
+      "To reduce the risk of both pilots suffering from the same potential foodborne illness",
+      "Because one meal is reserved for the cabin crew"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To reduce the risk of both pilots suffering from the same potential foodborne illness"
+  },
+  {
+    "question": "When serving beverages to pilots on an A320/A321, what is the safest procedure?",
+    "options": [
+      "Pass drinks from the center pedestal side",
+      "Hand drinks directly from the forward jump seat",
+      "Serve from behind and on the window side of the pilot seat, using lids on hot drinks",
+      "Ask the pilot to take the drink from the galley to avoid spillage"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Serve from behind and on the window side of the pilot seat, using lids on hot drinks"
+  },
+  {
+    "question": "Why must a cabin crew member maintain a safe distance when handing food or drink to the flight deck crew?",
+    "options": [
+      "To show respect and professionalism",
+      "To avoid blocking the view of the instruments",
+      "To prevent spillage onto critical flight instruments",
+      "To keep the interphone area clear"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To prevent spillage onto critical flight instruments"
+  },
+  {
+    "question": "How often must lavatories be checked during flight?",
+    "options": [
+      "Every hour",
+      "Only when a passenger reports a problem",
+      "At intervals of 30 minutes",
+      "Only before take-off and after landing"
+    ],
+    "correct_letter": "C",
+    "correct_text": "At intervals of 30 minutes"
+  },
+  {
+    "question": "How frequently must cabin crew check passenger cabin conditions for smells, noises, temperature, and passenger well-being?",
+    "options": [
+      "Only when SCCM instructs",
+      "Every 30 minutes",
+      "At crew discretion if cabin seems quiet",
+      "Once per flight segment"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Every 30 minutes"
+  },
+  {
+    "question": "When must cargo compartments that are accessible to passengers be checked?",
+    "options": [
+      "Only if smoke alarm activates",
+      "At the start and end of the flight",
+      "Every 30 minutes to prevent unauthorized access and monitor for smoke/fire",
+      "Only during turbulence"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Every 30 minutes to prevent unauthorized access and monitor for smoke/fire"
+  },
+  {
+    "question": "What is the correct in-flight cleaning practice for passenger touch surfaces?",
+    "options": [
+      "Use alcohol-based sprays for faster disinfection",
+      "Clean only after meal service",
+      "Use disinfectant wipes and avoid alcohol-based sprays to prevent flammable vapors or false smoke detector activation",
+      "Perform cleaning only on long-haul flights"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Use disinfectant wipes and avoid alcohol-based sprays to prevent flammable vapors or false smoke detector activation"
+  },
+  {
+    "question": "Who has the authority to refuse boarding to a passenger visibly under the influence of alcohol?",
+    "options": [
+      "SCCM only",
+      "Ground staff supervisor",
+      "Commander",
+      "Any cabin crew member without consultation"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Commander"
+  },
+  {
+    "question": "A passenger produces their own bottle of alcohol and pours a drink during the flight. What is the correct response?",
+    "options": [
+      "Allow it if they are of legal drinking age",
+      "Confiscate it permanently",
+      "Politely inform the passenger that only alcohol served by cabin crew may be consumed, and notify Commander if needed",
+      "Ignore the situation if the passenger is quiet"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Politely inform the passenger that only alcohol served by cabin crew may be consumed, and notify Commander if needed"
+  },
+  {
+    "question": "Under what circumstances can private alcohol be removed from a passenger for safe custody?",
+    "options": [
+      "Only if the passenger is under 18",
+      "Only if the passenger is aggressive",
+      "At the discretion of the Commander if it poses a safety or order risk",
+      "Only on international flights"
+    ],
+    "correct_letter": "C",
+    "correct_text": "At the discretion of the Commander if it poses a safety or order risk"
+  },
+  {
+    "question": "When a passenger becomes ill mid-flight, what is the cabin crew’s FIRST priority?",
+    "options": [
+      "Fill out the Cabin Report immediately",
+      "Attend to the passenger, assess symptoms, and provide necessary first aid",
+      "Request landing clearance from ATC",
+      "Search for medical equipment in the galley"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Attend to the passenger, assess symptoms, and provide necessary first aid"
+  },
+  {
+    "question": "After the Commander switches ON the fasten seat belt sign for landing, what is SCCM’s immediate next step?",
+    "options": [
+      "Check crew jump seats first",
+      "Begin inflight sales closure",
+      "Make the before-landing passenger announcement",
+      "Call the Commander for landing clearance"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Make the before-landing passenger announcement"
+  },
+  {
+    "question": "What must cabin crew do after making the before-landing announcement?",
+    "options": [
+      "Collect last-minute trash from passengers",
+      "Finish any galley work quickly",
+      "Stop all cabin activities and perform the full cabin check, including lavatories and galley securement",
+      "Brief the passengers on arrival procedures"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Stop all cabin activities and perform the full cabin check, including lavatories and galley securement"
+  },
+  {
+    "question": "When is the Cabin Ready button pressed (if applicable on the aircraft)?",
+    "options": [
+      "After taxiing to gate",
+      "Once passengers have disembarked",
+      "After receiving “Cabin Secured” and “Cabin Clear” from all crew, before landing",
+      "Only in case of an emergency landing"
+    ],
+    "correct_letter": "C",
+    "correct_text": "After receiving “Cabin Secured” and “Cabin Clear” from all crew, before landing"
+  },
+  {
+    "question": "What is considered acceptable when waste bags are temporarily stowed in a lavatory before landing?",
+    "options": [
+      "Waste can be stowed anywhere if lavatory door is locked",
+      "Waste must be in a fireproof bag and lavatory placarded",
+      "Waste can remain in lavatory without any labeling"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Waste must be in a fireproof bag and lavatory placarded"
+  },
+  {
+    "question": "When should SCCM/CCM make the “After Landing” announcement?",
+    "options": [
+      "Immediately after touchdown",
+      "After the seat belt signs are switched off",
+      "When the aircraft is off the runway",
+      "Only after engines are shut down"
+    ],
+    "correct_letter": "C",
+    "correct_text": "When the aircraft is off the runway"
+  },
+  {
+    "question": "When are cabin crew permitted to leave their seats after landing?",
+    "options": [
+      "Once the aircraft slows below taxi speed",
+      "Immediately after aircraft turns off runway",
+      "Only after seat belt signs are turned OFF and to perform safety duties",
+      "When passengers begin standing"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Only after seat belt signs are turned OFF and to perform safety duties"
+  },
+  {
+    "question": "What must SCCM/CCM1 do if no door-opening signal is received within 3 minutes after Commander’s permission?",
+    "options": [
+      "Wait longer until ground staff arrives",
+      "Contact the flight deck to confirm door opening clearance",
+      "Open the door carefully without confirmation",
+      "Ask passengers to wait at their seats"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Contact the flight deck to confirm door opening clearance"
+  },
+  {
+    "question": "Before letting passengers out on ATR72, what must be confirmed?",
+    "options": [
+      "Catering supplies have been removed",
+      "Seat belt signs are still on",
+      "Tail prop is installed and propellers have stopped turning",
+      "Commander has left the flight deck"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Tail prop is installed and propellers have stopped turning"
+  },
+  {
+    "question": "What is the correct first step before opening a door on A320/A321 in normal operations?",
+    "options": [
+      "Open the door slowly while checking outside",
+      "Verify passengers are ready for disembarkation",
+      "Stop all other activities, visually check that slide arming lever is DISARMED and safety pin is installed",
+      "Unlock the door and open immediately"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Stop all other activities, visually check that slide arming lever is DISARMED and safety pin is installed"
+  },
+  {
+    "question": "Where is the designated cleaning equipment stored if external cleaning is unavailable or insufficient?",
+    "options": [
+      "Forward galley storage compartment",
+      "Under passenger seats in the first row",
+      "In the aft galley marked with a “Cleaning Items” tag",
+      "In the cockpit storage locker"
+    ],
+    "correct_letter": "C",
+    "correct_text": "In the aft galley marked with a “Cleaning Items” tag"
+  },
+  {
+    "question": "What is SCCM’s responsibility if additional time is required for post-flight cleaning duties?",
+    "options": [
+      "Finish as quickly as possible and log time later",
+      "Contact ground handling directly for delay approval",
+      "Inform the Commander, who passes the information to OCC for check-out adjustments",
+      "Notify passengers about the delay"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Inform the Commander, who passes the information to OCC for check-out adjustments"
+  },
+  {
+    "question": "Which of the following is NOT part of the cabin cleaning checklist for next-flight readiness?",
+    "options": [
+      "Remove/replace used catering",
+      "Perform a full aircraft security search",
+      "Check lavatories and restock supplies",
+      "Straighten seat belts"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Perform a full aircraft security search"
+  },
+  {
+    "question": "Who is responsible for initiating a debriefing after each flight?",
+    "options": [
+      "The Commander",
+      "SCCM",
+      "Any Ground Staff representative",
+      "Only Crew Scheduling"
+    ],
+    "correct_letter": "B",
+    "correct_text": "SCCM"
+  },
+  {
+    "question": "What is one of the main purposes of a post-flight debriefing?",
+    "options": [
+      "Collect feedback for catering providers",
+      "Distribute crew pay reports",
+      "Discuss incidents, share feedback, and improve team performance",
+      "Review passenger satisfaction surveys"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Discuss incidents, share feedback, and improve team performance"
+  },
+  {
+    "question": "Who can initiate a debriefing if they feel it is necessary?",
+    "options": [
+      "Only SCCM",
+      "Only the most senior Cabin Crew",
+      "Any Cabin Crew Member",
+      "Only Operations Control"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Any Cabin Crew Member"
+  },
+  {
+    "question": "Why is positive feedback emphasized during debriefings?",
+    "options": [
+      "To avoid reporting negative incidents",
+      "To reduce the amount of paperwork",
+      "To motivate the crew and reinforce good practices",
+      "To avoid delays for the next flight"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To motivate the crew and reinforce good practices"
+  },
+  {
+    "question": "If cleaning onboard is not available during a domestic turnaround, what are crew required to do?",
+    "options": [
+      "Wait until ground staff arrives to clean",
+      "Collect trash, arrange seat belts in V position, check and restock lavatories if necessary",
+      "Close overhead bins and leave cabin as is",
+      "Delay boarding until full cleaning is performed"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Collect trash, arrange seat belts in V position, check and restock lavatories if necessary"
+  },
+  {
+    "question": "What is strictly forbidden on passenger bridges/stairs due to safety and security reasons?",
+    "options": [
+      "Stowing cleaning equipment",
+      "Allowing passengers to pass during cleaning",
+      "Leaving waste or items from the aircraft"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Leaving waste or items from the aircraft"
+  },
+  {
+    "question": "Which type of cleaning is performed after short flights, before departure, by cabin crew?",
+    "options": [
+      "Full cleaning",
+      "Light cleaning",
+      "Preventive cleaning"
+    ],
+    "correct_letter": "B",
+    "correct_text": "Light cleaning"
+  },
+  {
+    "question": "What is the purpose of preventive cleaning and disinfection of the aircraft?",
+    "options": [
+      "To speed up boarding times",
+      "To comply with local airport rules",
+      "To meet EASA safety directives or other regulatory requirements",
+      "To prepare aircraft for deep cleaning"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To meet EASA safety directives or other regulatory requirements"
+  },
+  {
+    "question": "Why must disembarking passengers be required to take their cabin baggage with them during a transit stop?",
+    "options": [
+      "To make overhead bins easier to clean",
+      "To speed up boarding for new passengers",
+      "To prevent unattended baggage from being left behind and to meet security requirements",
+      "To allow ground staff to disinfect bins"
+    ],
+    "correct_letter": "C",
+    "correct_text": "To prevent unattended baggage from being left behind and to meet security requirements"
+  },
+  {
+    "question": "What is the correct procedure for reconciling remaining passengers during a transit stop?",
+    "options": [
+      "Only count passengers seated in front rows",
+      "Check boarding passes without moving passengers",
+      "Count passengers, ask them to identify their cabin baggage, place it on their lap/seat, and search overhead bins",
+      "Ask only UM, PRM, and VIP passengers to present baggage"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Count passengers, ask them to identify their cabin baggage, place it on their lap/seat, and search overhead bins"
+  },
+  {
+    "question": "Under what conditions can a security search be conducted while passengers remain on board during transit stop",
+    "options": [
+      "When there is no time for a full search",
+      "When the aircraft is parked at a remote stand",
+      "When passengers have their baggage with them and are under supervision to prevent movement",
+      "When only half the passengers have disembarked"
+    ],
+    "correct_letter": "C",
+    "correct_text": "When passengers have their baggage with them and are under supervision to prevent movement"
+  },
+  {
+    "question": "What must the cabin crew do after completing the security search at a transit stop?",
+    "options": [
+      "Immediately begin boarding new passengers",
+      "Wait for ground staff to sign off the manifest",
+      "Inform the Commander of the search results",
+      "Record findings in the Catering Delivery Notes"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Inform the Commander of the search results"
+  },
+  {
+    "question": "What is the correct cabin configuration during refueling?",
+    "options": [
+      "Cabin lights dimmed, curtains closed, doors armed",
+      "Cabin lights on, emergency lights off, doors closed",
+      "Cabin lights on, curtains open and secured, emergency lights ON, aisles and exits clear",
+      "Curtains closed for passenger privacy and crew seated"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Cabin lights on, curtains open and secured, emergency lights ON, aisles and exits clear"
+  },
+  {
+    "question": "What is the correct action if fuel vapors are detected inside the cabin?",
+    "options": [
+      "Continue fueling but monitor situation",
+      "Open all overhead bins to ventilate cabin",
+      "Immediately inform Commander, who will stop fueling and may order passenger disembarkation",
+      "Close all doors and keep passengers seated until smell is gone"
+    ],
+    "correct_letter": "C",
+    "correct_text": "Immediately inform Commander, who will stop fueling and may order passenger disembarkation"
+  },
+  {
+    "question": "What does the Commander announce to initiate a non-emergency but rapid passenger offload during refueling hazard or other abnormal situation?",
+    "options": [
+      "“Cabin Crew, Prepare for Evacuation”",
+      "“Cabin Crew, Open All Doors”",
+      "“QUICK DISEMBARKATION”",
+      "“Cabin Crew, Standby for Evacuation”"
+    ],
+    "correct_letter": "C",
+    "correct_text": "“QUICK DISEMBARKATION”"
+  }
+]
