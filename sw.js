@@ -1,4 +1,4 @@
-const CACHE = "atr-quiz-v4";
+const CACHE = "atr-quiz-v5";
 
 const ASSETS = [
   "./",
