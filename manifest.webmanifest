@@ -1,6 +1,6 @@
 {
-  "name": "ATR Question Bank",
-  "short_name": "ATR Quiz",
+  "name": "Operational Question Bank",
+  "short_name": "OP QB",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
